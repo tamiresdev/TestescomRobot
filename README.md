@@ -18,4 +18,7 @@ Testes automtizados utilizando um framework muito simpático. Os testes foram ex
 - 👾 Page Object com KeyWords 
 - 👾 Validação de Login
 
-## 
+## Plataforma Testada 
+*  [QANinja] (https://training-wheels-protocol.herokuapp.com/)
+
+
