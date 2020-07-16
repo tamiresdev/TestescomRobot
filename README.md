@@ -1,6 +1,6 @@
 # 🤖 Teste com Robot! 
 ## Sobre
-Testes automtizados utilizando um framework muito simpático. Os testes foram executados em uma platafora da QANinja onde diversos elementos estão disponíveis para interação!
+Teste automatizado utilizando um framework muito simpático. Os testes foram executados em uma platafora da QANinja onde diversos elementos estão disponíveis para interação!
 
 ## Feito com 
 * [Python](https://www.python.org/) - O pré requisito é ter o Python 2.7 instalado na máquina. O Robot também suporta o Python 3. Após instalar o Python, verifique se o Pip, gerenciador de pacotes do Python também está instalo para que você possa instalar o RobotFramework.
@@ -18,7 +18,7 @@ Testes automtizados utilizando um framework muito simpático. Os testes foram ex
 - 👾 Page Object com KeyWords 
 - 👾 Validação de Login
 
-## Plataforma Testada 
+## Plataforma Utilizada 
 *  [QANinja] (https://training-wheels-protocol.herokuapp.com/)
 
 
